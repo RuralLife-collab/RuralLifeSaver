@@ -56,10 +56,10 @@ def webhook():
                 "- Referir si no hay respuesta o recursos limitados."
             )
        
-    elif if text == "2":
-        reply = (
-            "🧪 *Caso práctico*\n"
-            "Paciente PA 170/110, cefalea intensa, 34 semanas.\n"
-            "Escribe *preeclampsia* para ver conducta inicial educativa."
-        )
+        elif if text == "2":
+            reply = (
+                "🧪 *Protocolos clínico*\n"
+                "Paciente PA 170/110, cefalea intensa, 34 semanas.\n"
+                "Escribe *preeclampsia* para ver conducta inicial educativa."
+            )
 
