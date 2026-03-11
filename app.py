@@ -55,5 +55,11 @@ def webhook():
                 "- Convulsión: diazepam/midazolam según protocolo local.\n"
                 "- Referir si no hay respuesta o recursos limitados."
             )
-        elif text == "2":
-            reply = (
+       
+    elif if text == "2":
+        reply = (
+            "🧪 *Caso práctico*\n"
+            "Paciente PA 170/110, cefalea intensa, 34 semanas.\n"
+            "Escribe *preeclampsia* para ver conducta inicial educativa."
+        )
+
